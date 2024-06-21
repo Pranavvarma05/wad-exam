@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Navbar = () => {
   return (
     <nav style={styles.nav}>
-        <p style={{color:'#fff'}}>BHARGAVI-22071A0545</p>
+        <p style={{color:'#fff'}}>Pranav-22071A0514</p>
       <ul style={styles.navList}>
         <li><Link to="/" style={styles.navLink}>Home</Link></li>
         <li><Link to="/register" style={styles.navLink}>Register</Link></li>

@@ -3,7 +3,7 @@ const Footer=()=>{
     return(
         <div style={{backgroundColor: '#F380AC',marginBottom:'0px',font:'white'}}>
             
-            @copyright bhargavi_22071A0545
+            @copyright pranav_22071A0514
         </div>
     )
 }
